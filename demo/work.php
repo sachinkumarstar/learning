@@ -18,4 +18,6 @@ foreach ($subjects as $subject) {
 echo "</table>";
 
 echo "shubham chhanwal";
+
+echo "Last Update";
 ?>
